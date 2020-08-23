@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+:laughing: learning markdown too
 Use the left arrow to go back!
